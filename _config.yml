@@ -5,7 +5,7 @@ locale: en_US
 description: Beverages. Refined. 
 logo: logo_round.svg
 search: true
-url: http://localhost:4000
+url: projekt-matara.github.io/artofalcohol
 
 # Jekyll configuration
 
