@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: The Art of Alcohol
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Beverages. Refined. 
+logo: logo_round.svg
 search: true
 url: http://localhost:4000
 
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Tiffany Hodson
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
