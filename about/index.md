@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All About Tiffany Hodson
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: All About Tiffany
+excerpt: "Some stuff that fills in for the except."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: green.jpg
