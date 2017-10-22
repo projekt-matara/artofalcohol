@@ -9,7 +9,6 @@ image:
   feature:
 date: 2017-10-18T08:08:50-04:00
 ---
-
 The soft aroma of this peach wine is great for summer and spring, if you are into that kinda thing. 
 If you are looking for something sweet & different I highly recommend this wine. It's a hint of tart with a subtle sweetness yet; not dry by any means.
 For new wine enthusiasts, it goes down very smooth. It is meant to be served as a table wine, however it can double as a dessert wine. 
